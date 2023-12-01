@@ -12,7 +12,22 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Emma Whitney</small>
+          <small>
+            This project was coded with 💙 by{" "}
+            <a
+              href="https://www.shecodes.io/graduates/79171-emma-whitney"
+              target="_blank"
+            >
+              Emma Whitney
+            </a>{" "}
+            and is{" "}
+            <a
+              href="https://github.com/EmLu26/react-dictionary-app"
+              target="_blank"
+            >
+              open-sourced on GitHub.
+            </a>
+          </small>
         </footer>
       </div>
     </div>
