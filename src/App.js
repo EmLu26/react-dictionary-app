@@ -17,6 +17,7 @@ function App() {
             <a
               href="https://www.shecodes.io/graduates/79171-emma-whitney"
               target="_blank"
+              rel="noreferrer"
             >
               Emma Whitney
             </a>{" "}
@@ -24,6 +25,7 @@ function App() {
             <a
               href="https://github.com/EmLu26/react-dictionary-app"
               target="_blank"
+              rel="noreferrer"
             >
               open-sourced on GitHub.
             </a>
