@@ -1,0 +1,10 @@
+.Antonyms {
+  margin-top: 15px;
+  padding: 0;
+}
+
+.Antonyms li {
+  display: inline-block;
+  padding-right: 15px;
+  line-height: 1;
+}

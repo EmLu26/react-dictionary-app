@@ -4,5 +4,6 @@ body {
 
 .App-header,
 .App-footer {
+  text-align: center;
   margin: 30px 0;
 }
